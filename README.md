@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Deepak Nagda <br><br>- 🏫 I'm currently studying at Motilal Nehru National Institute of Technology, Prayagraj Allahabad<br>- 📚 I'm currently working on improvement of my web development skills</p>
+<p align="left">I'm Deepak Nagda <br><br>- 🏫 I'm currently studying at Motilal Nehru National Institute of Technology, Prayagraj Allahabad<br>- 📚 I'm currently working on improvement of my web development skills along with focusing on competitive coding</p>
 
 ###
 
